@@ -9,6 +9,7 @@ Funciones del arbol
 -- InOrden
 -- PreOrden
 - "BST"
+
 Funciones por agregar:
 - Busqueda
 - Eliminacion
