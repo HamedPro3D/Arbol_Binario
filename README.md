@@ -13,4 +13,4 @@ Funciones por agregar:
 - Busqueda
 - Eliminacion
 - Visual (pygame)
-- 
+- Tabla de excel organizada (CSV)
